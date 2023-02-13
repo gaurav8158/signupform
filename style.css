@@ -1,0 +1,136 @@
+body{
+    background-color: black;
+}
+main{
+    color:white;
+    margin-top: 154px;
+    margin-left: 202px;
+    margin-bottom: 251px;
+    margin-right:349px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    /* opacity: 1; Firefox */
+  }
+button{
+color: black;
+position: absolute;
+width: 226px;
+height: 58px;
+left: 198px;
+top: 808px;
+background-color: #FFFFFF;
+margin:0;
+padding:0;
+border:0;
+}
+h1{
+    Font:Inter;
+    height: 144px;
+    width: 600px;
+    left: 202px;
+    top: 154px;
+    border-radius: nullpx;    
+}
+.name{
+    position: absolute;
+width: 112px;
+height: 29px;
+left: 202px;
+top: 278px;
+}
+.Email{
+    position: absolute;
+width: 60px;
+height: 29px;
+left: 202px;
+top: 352px;
+}
+.pass{
+    position: absolute;
+    width: 109px;
+    height: 29px;
+    left: 202px;
+    top: 426px;    
+}
+.pass1{
+    position: absolute;
+width: 244px;
+height: 29px;
+left: 202px;
+top: 500px;
+}
+.date{
+    position: absolute;
+    width: 244px;
+    height: 58px;
+    left: 202px;
+    top: 574px; 
+}
+.line .name,.Email,.pass,.pass1,.date{
+    color: #FFFFFF;;
+    border:none;
+    background:transparent;
+    border-bottom: 1px solid white;
+    width:1177px;
+}
+#employee{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 383px;
+    top: 656px;
+    border: 1px solid #FFFFFF;
+    border-radius: 1000px;
+    background:transparent;
+
+}
+#student{
+    position: absolute;
+width: 17px;
+height: 17px;
+left: 202px;
+top: 656px;
+
+    color: transparent;
+}
+label .st{
+   
+position: absolute;
+width: 244px;
+height: 29px;
+left: 228px;
+top: 659px;
+
+}
+label .emp{
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 409px;
+    top: 660px;
+}
+#txt{
+    position: absolute;
+width: 430px;
+height: 29px;
+left: 232px;
+top: 720px;
+}
+.check{
+border-color: white;
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    left: 198px;
+    top: 713px;
+}
+.bts{
+    height: 33px;
+    width: 81px;
+    left: 266px;
+    top: 820px;
+    border-radius: nullpx;
+}
